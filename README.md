@@ -1,4 +1,4 @@
-# vue12
+# pdd
 
 ## Project setup
 ```
